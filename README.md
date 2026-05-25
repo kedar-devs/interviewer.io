@@ -58,7 +58,7 @@ cd interviewer
 
 If you don't have uv installed...
 
-what are you even doing with life? hihihi 
+Well, I got you covered, my friend 
 
 ### Windows
 
