@@ -312,5 +312,11 @@ If the AI rejects your solution brutally...
 
 that's just realistic interview prep :)
 
+# Additional Information/Advice
+
+- I have noticed that using a paid model gives me a better result than free ones, as hallucinations are less
+- I recommend using OpenAI or Google Gemini for this
+- Avoid using laptops that you are not an admin of, as they may block calls to open-source LLM models 
+
 ```
 ```
